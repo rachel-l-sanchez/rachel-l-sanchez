@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/rachel-l-sanchez/rachel-l-sanchez/commit/82ebb97c3816878fe725be754a840856faffaf98" align="center" style="width: 100%" />
+<a href="https://github.com/rachel-l-sanchez/rachel-l-sanchez/commit/82ebb97c3816878fe725be754a840856faffaf98" align="center" style="width: 100%" />
 </div>  
   
 
