@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey 👋 I'm Rachel, a full-stack developer in training. </div>  
+### <div align="center">I'm a full-stack developer in training. </div>  
   
 
 - 🔭 I’m currently learning HTML5, CSS, Javascript and soon to be Python, MERN and Java.  
