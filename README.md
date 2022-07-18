@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/rachel-l-sanchez/rachel-l-sanchez/blob/main/banner%20(1).png"](https://github.com/rachel-l-sanchez/rachel-l-sanchez/blob/main/banner%20(1).png) align="center" style="width: 100%" />
+<img src="https://github.com/rachel-l-sanchez/rachel-l-sanchez/blob/7b8f86c680bfc9dbd147d845469a0d15ffc3ed31/1.png" />
 </div>  
   
 
@@ -9,7 +9,7 @@
 - 🔭 I’m currently learning HTML5, CSS, Javascript and soon to be Python, MERN and Java.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything about Python and related frameworks  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
