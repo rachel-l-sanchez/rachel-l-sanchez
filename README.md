@@ -7,8 +7,8 @@
 
 My name is Rachel Sanchez. I am a new developer, tech enthusiast and focused on self-improvement. 
 
-- 🔭 I’m currently learning Python, MERN and Java.  
-- ❓ Ask me about anything about Python and related frameworks or gender inclusive practices. 
+- 🔭 Broadening my skills of Java, ReactJS and Python(who doesn't love a language named after Monty Python). 
+- ❓ Ask me anything about Python and related frameworks or gender inclusive practices. 
 -  📧 Reach me at sanchrachell@gmail.com or via <a href ="https://www.linkedin.com/in/sanchezrachel1/" >LinkedIn</a>
 - ⚡ Fun fact: I use tabs over spaces  
   
